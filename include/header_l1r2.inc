@@ -1,7 +1,7 @@
     </title>
 
-    <link rel="stylesheet" href="css/style.css" type="text/css" />
-    <!-- <link rel="shortcut icon" href="../../images/seattle_skyline.jpg" /> -->
+    <link rel="stylesheet" href="../css/style.css" type="text/css" />
+    <!-- <link rel="shortcut icon" href="../images/seattle_skyline.jpg" /> -->
    	<style type="text/css">
 	.style1 {
 		color: #651413;
