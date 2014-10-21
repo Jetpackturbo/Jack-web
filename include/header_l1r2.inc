@@ -25,7 +25,7 @@
 
 <div id="container">
 <div id="navcontainer">
-<!--#include file ="menu.inc" -->
+<!--#include file ="menu_l1.inc" -->
 
 </div>
 <div id="contents">
