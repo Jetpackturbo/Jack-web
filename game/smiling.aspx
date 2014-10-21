@@ -1,4 +1,6 @@
-﻿<!--#include file ="../include/header.inc" -->
+﻿<!--#include file ="../include/header_l1r1.inc" -->
+Smiling Face
+<!--#include file ="../include/header_l1r2.inc" -->
 <canvas id="mycanvas"></canvas>
 <script>
 	var canvas = document.getElementById("mycanvas");
