@@ -5,7 +5,7 @@
 		&nbsp;</td>
 		<td>-->
 		<p>
-		<img class="left" alt="Jin Li" height="293" longdesc="Jin Li's Photo" src="images/JinLi.jpg" width="227">Welcome to Jack's Home. </p>
+		<img class="left" alt="Jack" longdesc="Jack's Photo" src="images/Jack.jpg" width="227">Welcome to Jack's Home. </p>
 		<!--</td>
 	</tr>
 </table>-->
