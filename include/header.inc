@@ -1,40 +1,29 @@
 <%@ Page Language="C#" %>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
- 
+<!DOCTYPE html>
 <head>
-    <title>Jack's home page
+    <title>The Patrick's
     </title>
 
-    <link rel="stylesheet" href="css/style.css" type="text/css" />
-    <!-- <link rel="shortcut icon" href="images/seattle_skyline.jpg" /> -->
-   	<style type="text/css">
-	.style1 {
-		color: #651413;
-	}
-	</style>
+    <link rel="stylesheet" href="css/style.css" type="text/css" >
+    <link rel="icon" href="images/OwlFavicon1.png" type="image/x-icon">
 	
 </head>
 
 <body>
 
-
-<div class="header">
-<div class="left">
+<header>
+<left>
 <p><br/>
-<a href="./">Jack</a><br/>
+<a href="./">Patrick</a><br/>
 </p>
-</div>
-<div class="right">
-</div>
-</div>
+</left>
+</header>
 
 <div id="container">
-<div id="navcontainer">
-<!--#include file ="menu.inc" -->
 
-</div>
+<nav>
+<!--#include file ="menu.inc" -->
+</nav>
+
 <div id="contents">
 
